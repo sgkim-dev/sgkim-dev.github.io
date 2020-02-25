@@ -1,12 +1,9 @@
 ---
 title: "김상기"
 permalink: /about/
-type: pages
 layout: single
-author_profile: true
 ---
 
-소개글
+## sgkim-dev 블로그
 
-
-내용
+이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다
