@@ -1,9 +1,9 @@
 ---
 title: "이 블로그 설명서"
-permalink: /ABOUT/
-type: pages
+permalink: /contents/
 layout: single
+type: pages
 author_profile: true
 ---
 
-내용
+컨텐츠
