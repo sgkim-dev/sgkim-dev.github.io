@@ -1,9 +1,12 @@
 ---
-title: "이 블로그 설명서"
-permalink: /ABOUT/
+title: "김상기"
+permalink: /about/
 type: pages
 layout: single
 author_profile: true
 ---
+
+소개글
+
 
 내용
