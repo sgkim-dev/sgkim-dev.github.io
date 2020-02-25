@@ -2,10 +2,10 @@
 main:
   - title: "소개"
   - url: /about/
-  # - title: "블로그"
-  # - url: /posts/
-  # - title: "포트폴리오"
-  # - url: /portfolio/
+  - title: "블로그"
+  - url: /posts/
+  - title: "포트폴리오"
+  - url: /portfolio/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
